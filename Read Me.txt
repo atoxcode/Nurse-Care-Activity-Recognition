@@ -1,0 +1,5 @@
+For the dataset you can access this link:
+https://ieee-dataport.org/competitions/nurse-care-activity-recognition-challenge
+
+The paper that explain extracted features from time, frequency, wavelet domain (additional feature extraction):
+https://ieeexplore.ieee.org/abstract/document/9634895
